@@ -12,3 +12,17 @@ D:\code\vs\WebAPISQLTest\WebAPISQLTest\obj\Debug\netcoreapp2.1\WebAPISQLTest.Ass
 D:\code\vs\WebAPISQLTest\WebAPISQLTest\obj\Debug\netcoreapp2.1\WebAPISQLTest.RazorTargetAssemblyInfo.cache
 D:\code\vs\WebAPISQLTest\WebAPISQLTest\obj\Debug\netcoreapp2.1\WebAPISQLTest.dll
 D:\code\vs\WebAPISQLTest\WebAPISQLTest\obj\Debug\netcoreapp2.1\WebAPISQLTest.pdb
+C:\kevin\code\WebAPISQLTest\WebAPISQLTest\bin\Debug\netcoreapp2.1\WebAPISQLTest.deps.json
+C:\kevin\code\WebAPISQLTest\WebAPISQLTest\bin\Debug\netcoreapp2.1\WebAPISQLTest.runtimeconfig.json
+C:\kevin\code\WebAPISQLTest\WebAPISQLTest\bin\Debug\netcoreapp2.1\WebAPISQLTest.runtimeconfig.dev.json
+C:\kevin\code\WebAPISQLTest\WebAPISQLTest\bin\Debug\netcoreapp2.1\WebAPISQLTest.dll
+C:\kevin\code\WebAPISQLTest\WebAPISQLTest\bin\Debug\netcoreapp2.1\WebAPISQLTest.pdb
+C:\kevin\code\WebAPISQLTest\WebAPISQLTest\obj\Debug\netcoreapp2.1\WebAPISQLTest.csprojAssemblyReference.cache
+C:\kevin\code\WebAPISQLTest\WebAPISQLTest\obj\Debug\netcoreapp2.1\WebAPISQLTest.csproj.CoreCompileInputs.cache
+C:\kevin\code\WebAPISQLTest\WebAPISQLTest\obj\Debug\netcoreapp2.1\WebAPISQLTest.RazorAssemblyInfo.cache
+C:\kevin\code\WebAPISQLTest\WebAPISQLTest\obj\Debug\netcoreapp2.1\WebAPISQLTest.RazorAssemblyInfo.cs
+C:\kevin\code\WebAPISQLTest\WebAPISQLTest\obj\Debug\netcoreapp2.1\WebAPISQLTest.AssemblyInfoInputs.cache
+C:\kevin\code\WebAPISQLTest\WebAPISQLTest\obj\Debug\netcoreapp2.1\WebAPISQLTest.AssemblyInfo.cs
+C:\kevin\code\WebAPISQLTest\WebAPISQLTest\obj\Debug\netcoreapp2.1\WebAPISQLTest.RazorTargetAssemblyInfo.cache
+C:\kevin\code\WebAPISQLTest\WebAPISQLTest\obj\Debug\netcoreapp2.1\WebAPISQLTest.dll
+C:\kevin\code\WebAPISQLTest\WebAPISQLTest\obj\Debug\netcoreapp2.1\WebAPISQLTest.pdb
